@@ -3,6 +3,8 @@
 ## I'm a Student and Developer!
 
 - 📝 I’m currently learning about open source contributions 😀
+- I am also learning to work with FaunaDB
+- Learning more about oAuth
 
 ### Connect with me:
 
