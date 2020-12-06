@@ -3,8 +3,8 @@
 ## I'm a Student and Developer!
 
 - 📝 I’m currently learning about open source contributions 😀
-- I am also learning to work with FaunaDB
-- Learning more about oAuth
+- Working on a project to document CSS concepts for myself
+- In the process of creating NimbleUI
 
 ### Connect with me:
 
