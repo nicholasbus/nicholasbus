@@ -1,10 +1,10 @@
-### Hi, I'm Nicholas - aka [smithdev][website] 👋
+### Hi, I'm [Nicholas][website] 👋
 
-## I'm a Student and Developer!
-
-- 📝 I’m currently learning about open source contributions 😀
-- Working on a project to document CSS concepts for myself
-- In the process of creating NimbleUI
+## I'm a Web Developer
+- Currently Studying Full-Stack Development
+- In pursuit of any role in the web dev industry
+- Looking forward to furthuring my knowledge of web development
+- Open source contributions made occasionally 😀
 
 ### Connect with me:
 
