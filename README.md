@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nicholas Smith</h1>
 <h3 align="center">A passionate full-stack web developer from Colorado</h3>
+<h4 align="center">Passionate about software development and connecting people on the web!</h4>
 
+- 💻 Searching for roles in the web development industry
+- 📚 Life Long Learner
+- ☘ Learning about Twitch and Discord application integrations
 - 📫 How to reach me **nicholassmithbus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
