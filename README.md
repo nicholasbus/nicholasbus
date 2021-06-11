@@ -4,7 +4,8 @@
 
 - 💻 Searching for roles in the web development industry
 - 📚 Life Long Learner
-- ☘ Learning about Twitch and Discord application integrations
+- ☘ Learning about the software development lifecycle
+- 💪 Working towards proficiency in Full-Stack development 
 - 📫 How to reach me **nicholassmithbus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
