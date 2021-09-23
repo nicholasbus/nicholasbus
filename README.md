@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full-stack web developer from Colorado</h3>
 <h4 align="center">Passionate about software development and connecting people on the web!</h4>
 
-- 💻 Searching for roles in the web development industry
 - 📚 Life Long Learner
 - ☘ Learning about the software development lifecycle
 - 💪 Working towards proficiency in Full-Stack development 
